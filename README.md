@@ -30,12 +30,15 @@ A simple and elegant multi-step form built with **Next.js 14 (App Router)**, **R
 
 Follow these steps to run the project locally:
 
+---
+
 ### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/developersajadur/Pxlhut-Job-Task.git
 cd Pxlhut-Job-Task
 
+```
 
 ## 2️⃣ Install Dependencies
 
@@ -45,6 +48,7 @@ Then install the dependencies:
 
 ```bash
 npm install
+```
 
 
 
@@ -52,15 +56,7 @@ npm install
 
 ```bash
 npm run dev
-
-or
-
-```bash
-yarn run dev
+```
 
 
-or
-
-```bash
-bun run dev
 
